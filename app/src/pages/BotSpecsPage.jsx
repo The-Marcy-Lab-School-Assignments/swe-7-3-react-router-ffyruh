@@ -1,6 +1,6 @@
-/* 
-A "page" is distinct from a component in that a page 
-is made up of components. A page simply organizes the 
+/*
+A "page" is distinct from a component in that a page
+is made up of components. A page simply organizes the
 components, using props to pass down shared state.
 */
 
