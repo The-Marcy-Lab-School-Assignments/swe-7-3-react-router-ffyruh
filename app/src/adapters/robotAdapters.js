@@ -1,4 +1,4 @@
-import { handleFetch } from "./handleFetch";
+import { handleFetch } from "./handleFetch.js";
 
 export const getAllRobots = () => {
   return handleFetch('http://localhost:4000/robots');
